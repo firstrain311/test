@@ -10199,7 +10199,6 @@ DOMAIN-SUFFIX,ali-health.com
 DOMAIN-SUFFIX,ali-restore.net
 DOMAIN-SUFFIX,ali213.net
 DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabacapital.com
@@ -10243,7 +10242,6 @@ DOMAIN-SUFFIX,alimei.com
 DOMAIN-SUFFIX,alimmdn.com
 DOMAIN-SUFFIX,alios.cn
 DOMAIN-SUFFIX,alipan.com
-DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alipay-eco.com
 DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.com
@@ -10355,7 +10353,6 @@ DOMAIN-SUFFIX,ankerwork.cn
 DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,anlaiye.com.cn
 DOMAIN-SUFFIX,anmo.com
-DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,anruan.com
@@ -10580,7 +10577,6 @@ DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,baicizhan.com
 DOMAIN-SUFFIX,baicizhan.org
-DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,baidu-cdn.cn
 DOMAIN-SUFFIX,baidu-cdn.com
 DOMAIN-SUFFIX,baidu-cdn.net
@@ -11513,7 +11509,6 @@ DOMAIN-SUFFIX,cip.cc
 DOMAIN-SUFFIX,cisco.cn
 DOMAIN-SUFFIX,cisco.com.cn
 DOMAIN-SUFFIX,citibank.com.cn
-DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,citic-prudential.com.cn
 DOMAIN-SUFFIX,citicbank.com
 DOMAIN-SUFFIX,citiccapital.com
@@ -13558,7 +13553,6 @@ DOMAIN-SUFFIX,ibytepluses-test.com
 DOMAIN-SUFFIX,ibytepluses.com.cn
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,icaidao.com
-DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,icbccs.com.cn
 DOMAIN-SUFFIX,icbccstz.com.cn
@@ -16142,7 +16136,6 @@ DOMAIN-SUFFIX,shopoppo.cn
 DOMAIN-SUFFIX,shopoppo.com.cn
 DOMAIN-SUFFIX,shoppingads.cn
 DOMAIN-SUFFIX,shopss.com
-DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,shoujihuifu.com
 DOMAIN-SUFFIX,shouqianba.com
 DOMAIN-SUFFIX,shoutanjjj.com
@@ -16178,7 +16171,6 @@ DOMAIN-SUFFIX,sichuanair.com
 DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,simei8.com
 DOMAIN-SUFFIX,simuwang.com
-DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
@@ -16259,7 +16251,6 @@ DOMAIN-SUFFIX,sogou.net
 DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sogoucdndl.com
 DOMAIN-SUFFIX,sogouimecdn.com
-DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sojson.com
@@ -16483,7 +16474,6 @@ DOMAIN-SUFFIX,tantanapp.com
 DOMAIN-SUFFIX,tanwan.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tao123.com
-DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobao.net
 DOMAIN-SUFFIX,taobao.org
@@ -16781,7 +16771,6 @@ DOMAIN-SUFFIX,tlivepush.com
 DOMAIN-SUFFIX,tlivesource.com
 DOMAIN-SUFFIX,tm2a8.cn
 DOMAIN-SUFFIX,tm7sg.cn
-DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmalltv.com
 DOMAIN-SUFFIX,tmcdn.net
@@ -17044,7 +17033,6 @@ DOMAIN-SUFFIX,uncnn.cn
 DOMAIN-SUFFIX,uneed.com
 DOMAIN-SUFFIX,uneedx.com
 DOMAIN-SUFFIX,unicloud.com
-DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,unicompayment.com
 DOMAIN-SUFFIX,unigroup.com.cn
 DOMAIN-SUFFIX,unihan.com.cn
@@ -17419,7 +17407,6 @@ DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegobank.cn
-DOMAIN-SUFFIX,weibo
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.com.cn
@@ -17729,7 +17716,6 @@ DOMAIN-SUFFIX,xiguashipin.cn
 DOMAIN-SUFFIX,xiguashipin.net
 DOMAIN-SUFFIX,xiguavideo.cn
 DOMAIN-SUFFIX,xiguavideo.net
-DOMAIN-SUFFIX,xihuan
 DOMAIN-SUFFIX,xilu.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xin.xin
@@ -17780,13 +17766,10 @@ DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xmhouse.com
 DOMAIN-SUFFIX,xmoj.tech
 DOMAIN-SUFFIX,xn--7hvy28f.cn
-DOMAIN-SUFFIX,xn--8y0a063a
-DOMAIN-SUFFIX,xn--9krt00a
 DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
-DOMAIN-SUFFIX,xn--fiq64b
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
@@ -18065,7 +18048,6 @@ DOMAIN-SUFFIX,yufuid.com.cn
 DOMAIN-SUFFIX,yufuid.net
 DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,yumchina.com
-DOMAIN-SUFFIX,yun
 DOMAIN-SUFFIX,yun.139.com
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io
