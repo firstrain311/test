@@ -1,0 +1,5 @@
+DOMAIN,playclient.douyucdn.cn
+DOMAIN,apiv2.douyucdn.cn
+DOMAIN,apiv3.douyucdn.cn
+DOMAIN,mconf.douyucdn.cn
+DOMAIN,capi.douyucdn.cn
