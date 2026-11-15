@@ -2417,6 +2417,7 @@ DOMAIN,conac.cn
 DOMAIN,cone-x.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,configuration.ls.apple.com
 DOMAIN,conn1.oppomobile.com
 DOMAIN,conn2.oppomobile.com
 DOMAIN,connect.rom.miui.com
@@ -5994,6 +5995,7 @@ DOMAIN,muomou.com
 DOMAIN,music.apple.com
 DOMAIN,music.httpdns.c.163.com
 DOMAIN,music.qq.com
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,muwai.com
 DOMAIN,muyewx.com
@@ -6060,6 +6062,7 @@ DOMAIN,myyx618.com
 DOMAIN,myzaker.com
 DOMAIN,mzgjbj.com
 DOMAIN,mzres.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN,mzyyfck.com
 DOMAIN,mzyygb.com
 DOMAIN,mzyygk.com
