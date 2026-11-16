@@ -1013,6 +1013,8 @@ DOMAIN,arcaea.cn
 DOMAIN,arco.design
 DOMAIN,ark-doc-resources.cn
 DOMAIN,ark.letv.com
+DOMAIN,arknights.com
+DOMAIN,arknights.com.cn
 DOMAIN,arpun.com
 DOMAIN,arrow.cn
 DOMAIN,asczwa.com
@@ -4029,6 +4031,7 @@ DOMAIN,hffunds.cn
 DOMAIN,hftfund.com
 DOMAIN,hfx.net
 DOMAIN,hfzq.com.cn
+DOMAIN,hgto.cc
 DOMAIN,hhtravel.com
 DOMAIN,hi-butterfly.cn
 DOMAIN,hiaiabc.com
@@ -4320,9 +4323,15 @@ DOMAIN,hxnews.com
 DOMAIN,hxsd.com
 DOMAIN,hxzq.cn
 DOMAIN,hybiome.com
+DOMAIN,hycdn.cn
+DOMAIN,hycdn.com
 DOMAIN,hydun.com
 DOMAIN,hypercachenet.com
 DOMAIN,hypercachenode.com
+DOMAIN,hypergryph.cn
+DOMAIN,hypergryph.com
+DOMAIN,hypergryph.com.cn
+DOMAIN,hypergryph.net
 DOMAIN,hytung.cn
 DOMAIN,hzchengdun.com
 DOMAIN,hzchengdun.net
@@ -6260,6 +6269,7 @@ DOMAIN,ocfund.cn
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.pki.goog
 DOMAIN,ocsp2.apple.com
+DOMAIN,octavedge.com
 DOMAIN,ocwms.com
 DOMAIN,oeeee.com
 DOMAIN,oemsoc.download.prss.microsoft.com
@@ -7289,6 +7299,8 @@ DOMAIN,sjfls6.com
 DOMAIN,sjwyx.com
 DOMAIN,skillhub.cn
 DOMAIN,skimit.net
+DOMAIN,skland.com
+DOMAIN,skland.net
 DOMAIN,sksight.com
 DOMAIN,skycdn.com.cn
 DOMAIN,skycn.com
@@ -10559,6 +10571,8 @@ DOMAIN-SUFFIX,arcaea.cn
 DOMAIN-SUFFIX,arco.design
 DOMAIN-SUFFIX,ark-doc-resources.cn
 DOMAIN-SUFFIX,ark.letv.com
+DOMAIN-SUFFIX,arknights.com
+DOMAIN-SUFFIX,arknights.com.cn
 DOMAIN-SUFFIX,arpun.com
 DOMAIN-SUFFIX,arrow.cn
 DOMAIN-SUFFIX,asczwa.com
@@ -13359,6 +13373,7 @@ DOMAIN-SUFFIX,hffunds.cn
 DOMAIN-SUFFIX,hftfund.com
 DOMAIN-SUFFIX,hfx.net
 DOMAIN-SUFFIX,hfzq.com.cn
+DOMAIN-SUFFIX,hgto.cc
 DOMAIN-SUFFIX,hhtravel.com
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,hiaiabc.com
@@ -13648,9 +13663,15 @@ DOMAIN-SUFFIX,hxnews.com
 DOMAIN-SUFFIX,hxsd.com
 DOMAIN-SUFFIX,hxzq.cn
 DOMAIN-SUFFIX,hybiome.com
+DOMAIN-SUFFIX,hycdn.cn
+DOMAIN-SUFFIX,hycdn.com
 DOMAIN-SUFFIX,hydun.com
 DOMAIN-SUFFIX,hypercachenet.com
 DOMAIN-SUFFIX,hypercachenode.com
+DOMAIN-SUFFIX,hypergryph.cn
+DOMAIN-SUFFIX,hypergryph.com
+DOMAIN-SUFFIX,hypergryph.com.cn
+DOMAIN-SUFFIX,hypergryph.net
 DOMAIN-SUFFIX,hytung.cn
 DOMAIN-SUFFIX,hzchengdun.com
 DOMAIN-SUFFIX,hzchengdun.net
@@ -15462,6 +15483,7 @@ DOMAIN-SUFFIX,oc.umeng.com
 DOMAIN-SUFFIX,oceancloudapi.com
 DOMAIN-SUFFIX,oceanengine.com
 DOMAIN-SUFFIX,ocfund.cn
+DOMAIN-SUFFIX,octavedge.com
 DOMAIN-SUFFIX,ocwms.com
 DOMAIN-SUFFIX,oeeee.com
 DOMAIN-SUFFIX,oemssl.cn
@@ -16362,6 +16384,8 @@ DOMAIN-SUFFIX,sjfls6.com
 DOMAIN-SUFFIX,sjwyx.com
 DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,skimit.net
+DOMAIN-SUFFIX,skland.com
+DOMAIN-SUFFIX,skland.net
 DOMAIN-SUFFIX,sksight.com
 DOMAIN-SUFFIX,skycdn.com.cn
 DOMAIN-SUFFIX,skycn.com
