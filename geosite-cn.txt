@@ -3167,6 +3167,7 @@ DOMAIN,ebtrust.com
 DOMAIN,eceshi.com
 DOMAIN,ecgapp.com.cn
 DOMAIN,echargenet.com
+DOMAIN,echooai.com
 DOMAIN,ecitic.com
 DOMAIN,ecjobhome.com
 DOMAIN,eckwai.com
@@ -3328,8 +3329,10 @@ DOMAIN,fastcom.com.cn
 DOMAIN,favonis.cloud
 DOMAIN,favonis.com
 DOMAIN,favonis.space
+DOMAIN,faw-vw.com
 DOMAIN,faw.cn
 DOMAIN,faxingbao.com
+DOMAIN,fazhipro.com
 DOMAIN,fbank.com
 DOMAIN,fbstatic.cn
 DOMAIN,fcapp.run
@@ -7057,6 +7060,7 @@ DOMAIN,s3.mzstatic.com
 DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 DOMAIN,sa.sina.cn
+DOMAIN,saasfz.com
 DOMAIN,saasops.tech
 DOMAIN,saayaa.com
 DOMAIN,saduck.top
@@ -12606,6 +12610,7 @@ DOMAIN-SUFFIX,ebtrust.com
 DOMAIN-SUFFIX,eceshi.com
 DOMAIN-SUFFIX,ecgapp.com.cn
 DOMAIN-SUFFIX,echargenet.com
+DOMAIN-SUFFIX,echooai.com
 DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,ecjobhome.com
 DOMAIN-SUFFIX,eckwai.com
@@ -12759,8 +12764,10 @@ DOMAIN-SUFFIX,fastcom.com.cn
 DOMAIN-SUFFIX,favonis.cloud
 DOMAIN-SUFFIX,favonis.com
 DOMAIN-SUFFIX,favonis.space
+DOMAIN-SUFFIX,faw-vw.com
 DOMAIN-SUFFIX,faw.cn
 DOMAIN-SUFFIX,faxingbao.com
+DOMAIN-SUFFIX,fazhipro.com
 DOMAIN-SUFFIX,fbank.com
 DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,fcapp.run
@@ -16188,6 +16195,7 @@ DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s.union.360.cn
 DOMAIN-SUFFIX,s0n.cn
 DOMAIN-SUFFIX,sa.sina.cn
+DOMAIN-SUFFIX,saasfz.com
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,saayaa.com
 DOMAIN-SUFFIX,saduck.top
