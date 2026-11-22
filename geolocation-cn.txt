@@ -4390,6 +4390,7 @@ DOMAIN,icbcstandard.com
 DOMAIN,icbcstandardbank.com
 DOMAIN,icbcstandardresources.com
 DOMAIN,icbcstandardsecurities.com
+DOMAIN,icc.link
 DOMAIN,iccvlog.com
 DOMAIN,iceo.com.cn
 DOMAIN,ichangtou.com
@@ -13761,6 +13762,7 @@ DOMAIN-SUFFIX,icbcstandard.com
 DOMAIN-SUFFIX,icbcstandardbank.com
 DOMAIN-SUFFIX,icbcstandardresources.com
 DOMAIN-SUFFIX,icbcstandardsecurities.com
+DOMAIN-SUFFIX,icc.link
 DOMAIN-SUFFIX,iccvlog.com
 DOMAIN-SUFFIX,iceo.com.cn
 DOMAIN-SUFFIX,ichangtou.com
