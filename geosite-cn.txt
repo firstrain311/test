@@ -2126,6 +2126,7 @@ DOMAIN,chuapp.com
 DOMAIN,chugou360.com
 DOMAIN,chuimg.com
 DOMAIN,chujingapp.com
+DOMAIN,chunithm.wahlap.com
 DOMAIN,chunyu.mobi
 DOMAIN,chunyuyisheng.com
 DOMAIN,chushi.cool
@@ -5656,6 +5657,7 @@ DOMAIN,mahjongcup.net
 DOMAIN,maiche.com
 DOMAIN,mail4399.com
 DOMAIN,maimai.cn
+DOMAIN,maimai.wahlap.com
 DOMAIN,maimemo.com
 DOMAIN,maimemostatus.com
 DOMAIN,maindown4399.com
@@ -7859,6 +7861,7 @@ DOMAIN,tfogc.com
 DOMAIN,tfzq.com
 DOMAIN,tgbus.com
 DOMAIN,tggfl.com
+DOMAIN,tgk-wcaime.wahlap.com
 DOMAIN,tgovcloud.com
 DOMAIN,tgpro.top
 DOMAIN,tgprocs.net
@@ -8572,6 +8575,7 @@ DOMAIN,vz.download.prss.microsoft.com
 DOMAIN,vzuu.com
 DOMAIN,w.cnzz.com
 DOMAIN,wahaha.com.cn
+DOMAIN,wahlap.net
 DOMAIN,waifushangcheng.com
 DOMAIN,wali.com
 DOMAIN,wallstcn.com
@@ -11667,6 +11671,7 @@ DOMAIN-SUFFIX,chuapp.com
 DOMAIN-SUFFIX,chugou360.com
 DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chujingapp.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chunyuyisheng.com
 DOMAIN-SUFFIX,chushi.cool
@@ -14947,6 +14952,7 @@ DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,maiche.com
 DOMAIN-SUFFIX,mail4399.com
 DOMAIN-SUFFIX,maimai.cn
+DOMAIN-SUFFIX,maimai.wahlap.com
 DOMAIN-SUFFIX,maimemo.com
 DOMAIN-SUFFIX,maimemostatus.com
 DOMAIN-SUFFIX,maindown4399.com
@@ -16932,6 +16938,7 @@ DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,tfzq.com
 DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,tggfl.com
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
 DOMAIN-SUFFIX,tgovcloud.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
@@ -17620,6 +17627,7 @@ DOMAIN-SUFFIX,vxo7tu.com
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,wahaha.com.cn
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,waifushangcheng.com
 DOMAIN-SUFFIX,wali.com
 DOMAIN-SUFFIX,wallstcn.com
